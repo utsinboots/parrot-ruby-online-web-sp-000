@@ -3,6 +3,5 @@
 
 def parrot(i="Squawk!")
   puts i
-  return i
+  i
 end
-parrot()
