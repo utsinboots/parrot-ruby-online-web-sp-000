@@ -5,7 +5,7 @@ def parrot(i="Squawk!")
   puts i
   return i
 end
-parrot()
+
 
 #def parrot(i="Squawk!")
 #  puts i
